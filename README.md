@@ -4,11 +4,15 @@ Account-Web-App
 A web Application to demonstrate read and display, as well as add data to a database using Node.js, Express, MySQL and Angular.  Node.js is used for API, Express as web server, MySQL as data store, and Angular for presentation.
 
 #Required
+
 -nodejs version 4.4.1 or higher
 
 #NPM Packages
+
 express: ^4.10.6
+
 mysql: ^2.5.4
+
 body-parser: ^1.15.1
 
 #Install
