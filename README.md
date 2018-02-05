@@ -16,7 +16,7 @@ mysql: ^2.5.4
 body-parser: ^1.15.1
 
 #Install
-1.  Download code.
+1.  Download code. Extract all the files.
 
 2. Create a mysql database as follows -
 				1. It has one table called account.
@@ -24,7 +24,7 @@ body-parser: ^1.15.1
 
 3.  Edit **server.js** lines **16 & 17** with the username and password of your MySQL database.
 		
-4.  Via command line, change directory to downloaded folder and run **npm install mysql**, **npm install express** and **npm install body-parser**. These commands install the required packages. 
+4.  Via command line, change directory to extractes folder and run **npm install mysql**, **npm install express** and **npm install body-parser**. These commands install the required packages. 
 
 4.  Type **node server.js** to start the application.
 
@@ -32,5 +32,5 @@ body-parser: ^1.15.1
 
 6. Extra Info : Line 25 can be changed in index.html to change the background image.
 		Line 56 can be changed in index.html to change the logo.
-		You also need to add the corresponding images (in jpeg format) into the folder public/resources.
+		You also need to add the corresponding images into the folder public/resources.
 
