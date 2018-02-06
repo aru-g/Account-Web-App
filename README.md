@@ -22,7 +22,7 @@ body-parser: ^1.15.1
 				1. It has one table called account.
 				2. The table account has 3 columns - acc_name of type varchar, master_acc_name of type varchar, and region of type varchar.
 
-3.  Edit **server.js** lines **16 & 17** with the username and password of your MySQL database.
+3.  Edit **server.js** lines **16 , 17 & 18** with the username , password and name of your MySQL database.
 		
 4.  Via command line, change directory to extractes folder and run **npm install mysql**, **npm install express** and **npm install body-parser**. These commands install the required packages. 
 
