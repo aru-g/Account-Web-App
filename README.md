@@ -28,7 +28,7 @@ body-parser: ^1.15.1
 
 4.  Type **node server.js** to start the application.
 
-5.  Browse to http://localhost:8081 too see the web app working!
+5.  Browse to http://localhost:8081 to see the web app working!
 
 6. Extra Info : Line 25 can be changed in index.html to change the background image.
 		Line 56 can be changed in index.html to change the logo.
